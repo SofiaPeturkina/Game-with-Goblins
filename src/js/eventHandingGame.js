@@ -22,5 +22,5 @@ export default class EventHandingGame {
   }
 }
 
-const game = new EventHandlingGame();
+const game = new EventHandingGame();
 game.Goblin;
